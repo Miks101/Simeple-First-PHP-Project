@@ -24,4 +24,4 @@
                         echo"Working Some More";
          } else if($current_time > '20:30' && $current_time < '22:30'){
                         echo"Its A Secret";
-         } ?>
+         } exit; ?>
